@@ -1,0 +1,1 @@
+-- Dummy SQL for VIP KPI 
